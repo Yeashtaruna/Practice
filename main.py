@@ -3,3 +3,5 @@ def add(a,b):
 
 a=10
 b=20
+result = add(a,b)
+print("The sum of", a, "and", b, "is", result)
